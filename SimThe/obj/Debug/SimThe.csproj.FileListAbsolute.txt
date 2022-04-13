@@ -1,0 +1,10 @@
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\bin\Debug\SimThe.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\bin\Debug\SimThe.exe
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\bin\Debug\SimThe.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\obj\Debug\SimThe.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\obj\Debug\SimThe.Form1.resources
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\obj\Debug\SimThe.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\obj\Debug\SimThe.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\obj\Debug\SimThe.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\obj\Debug\SimThe.exe
+D:\DaiHocDienLuc\ki_4\C#\code\SimThe\obj\Debug\SimThe.pdb

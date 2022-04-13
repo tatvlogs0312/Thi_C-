@@ -1,0 +1,10 @@
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\bin\Debug\Demo-LopHoc.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\bin\Debug\Demo-LopHoc.exe
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\bin\Debug\Demo-LopHoc.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\obj\Debug\Demo-LopHoc.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\obj\Debug\Demo_LopHoc.frmMain.resources
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\obj\Debug\Demo_LopHoc.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\obj\Debug\Demo-LopHoc.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\obj\Debug\Demo-LopHoc.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\obj\Debug\Demo-LopHoc.exe
+D:\DaiHocDienLuc\ki_4\C#\code\Demo-LopHoc\obj\Debug\Demo-LopHoc.pdb

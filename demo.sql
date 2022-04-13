@@ -1,0 +1,15 @@
+﻿CREATE DATABASE demo
+
+USE demo
+
+CREATE TABLE sinhvien(
+	MaSV NVARCHAR(10) PRIMARY KEY,
+	HoTenSV NVARCHAR(50),
+	Lop NVARCHAR(50),
+)
+
+INSERT INTO sinhvien(MaSV,HoTenSV,Lop) VALUES (N'1',N'Trần Anh Tuấn',N'D15CNPM2')
+
+SELECT * FROM sinhvien
+
+DROP TABLE sinhvien

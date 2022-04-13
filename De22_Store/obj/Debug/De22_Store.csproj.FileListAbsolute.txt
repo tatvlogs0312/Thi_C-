@@ -1,0 +1,10 @@
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\bin\Debug\De22_Store.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\bin\Debug\De22_Store.exe
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\bin\Debug\De22_Store.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\obj\Debug\De22_Store.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\obj\Debug\De22_Store.Form1.resources
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\obj\Debug\De22_Store.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\obj\Debug\De22_Store.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\obj\Debug\De22_Store.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\obj\Debug\De22_Store.exe
+D:\DaiHocDienLuc\ki_4\C#\code\De22_Store\obj\Debug\De22_Store.pdb

@@ -1,0 +1,10 @@
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\bin\Debug\DeNguoiDung.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\bin\Debug\DeNguoiDung.exe
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\bin\Debug\DeNguoiDung.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\obj\Debug\DeNguoiDung.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\obj\Debug\DeNguoiDung.Form1.resources
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\obj\Debug\DeNguoiDung.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\obj\Debug\DeNguoiDung.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\obj\Debug\DeNguoiDung.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\obj\Debug\DeNguoiDung.exe
+D:\DaiHocDienLuc\ki_4\C#\code\DeNguoiDung\obj\Debug\DeNguoiDung.pdb

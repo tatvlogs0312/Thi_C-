@@ -1,0 +1,10 @@
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\bin\Debug\De07_MayBay.exe.config
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\bin\Debug\De07_MayBay.exe
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\bin\Debug\De07_MayBay.pdb
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\obj\Debug\De07_MayBay.csproj.AssemblyReference.cache
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\obj\Debug\De07_MayBay.Form1.resources
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\obj\Debug\De07_MayBay.Properties.Resources.resources
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\obj\Debug\De07_MayBay.csproj.GenerateResource.cache
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\obj\Debug\De07_MayBay.csproj.CoreCompileInputs.cache
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\obj\Debug\De07_MayBay.exe
+D:\DaiHocDienLuc\ki_4\C#\code\De07_MayBay\obj\Debug\De07_MayBay.pdb
